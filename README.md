@@ -6,6 +6,7 @@ Gonoku is a game that is similar to Gomoku. The game is played on a 15x15 board.
 ### 2.1. Start the game
 To start the game, run the following command in the terminal:
 ```
+pip install pygame
 python3 gonoku.py
 ```
 ### 2.2. Play the game
